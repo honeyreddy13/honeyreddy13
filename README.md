@@ -14,7 +14,6 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Intern @ **Infineon (DES Department)**
 - 🎯 Passionate about **AI/ML**, **Android Development**, and **DSA**
 - 📈 Currently learning **Kotlin UI**, **Model Training**, and **Big Data Tools**
 - 🌍 Portfolio: [My Projects](https://honeyreddymudiredd.wixsite.com/honeyportfolio-1)
