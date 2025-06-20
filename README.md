@@ -1,31 +1,31 @@
-
-<!-- Animated Banner -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+there!+I'm+Honey+Reddy.;ML+%7C+DSA+%7C+Android+%7C+Data+Visualization.;Turning+Logic+into+Art.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+there!+I'm+Honey+Reddy.;ML+%7C+DSA+%7C+Android+%7C+Data+Visualization.;Turning+Logic+into+Art." alt="Typing SVG" />
 </p>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=honeyreddy13&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=honeyreddy13&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎯 Passionate about **AI/ML**, **Android Development**, and **DSA**
 - 📈 Currently learning **Kotlin UI**, **Model Training**, and **Big Data Tools**
-- 🌍 Portfolio: [My Projects](https://honeyreddymudiredd.wixsite.com/honeyportfolio-1)
-- 📬 Email: honeyreddymudireddy@gmail.com
-- 📄 [My Resume](https://drive.google.com/file/d/1x6OfglJNS86YMLk5YXpVUhkGqkxqPcMG/view)
+- 🌍 [**My Portfolio**](https://honeyreddymudiredd.wixsite.com/honeyportfolio-1)
+- 📬 Email: honeyreddymudireddy@gmail.com  
+- 📄 [**My Resume**](https://drive.google.com/file/d/1x6OfglJNS86YMLk5YXpVUhkGqkxqPcMG/view)
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=honeyreddy13&theme=radical&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=honeyreddy13&theme=radical&row=2&column=3" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 | **Secure Vote App** | Kotlin, Firebase | Smart Android voting app with real-time polling |
 | **Coffee Chain Dashboard** | R Studio, ggplot2 | Data-rich interactive BI dashboard |
 | **Shoe Store Website** | HTML, CSS, JS | Responsive e-commerce UI |
-| **Library System** | C++, OOP | Data structure based console app |
+| **Library System** | C++, OOP | Data structure-based console app |
 | **Wine Prediction** | Python, ML | Model trained using regression on real data |
 
 ---
@@ -57,16 +57,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=honeyreddy13&theme=algolia" width="47%" />
 </div>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyreddy13&layout=compact&theme=algolia" width="60%" />
 </p>
 
 ---
+
+### 🕒 Active Coding Time (Live)
+
 <p align="center">
   <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata&style=classic&fontSize=20" />
 </p>
 
+---
 
 ### 🌐 Let's Connect
 
@@ -78,10 +81,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
 
 ### ✨ Fun Quote
 
@@ -89,15 +88,21 @@
 
 ---
 
+### 😂 Random Joke
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23ff00ff&aColor=%2300ffee" alt="Random Joke" />
 </p>
 
 ---
+
+### 🔥 Contribution Graph
+
 <p align="center">
   <img src="https://github-contribution-grid.vercel.app/api?username=honeyreddy13&color=green" />
 </p>
 
+---
 
 <p align="center">
   ❤️ *Thanks for stopping by!*  
