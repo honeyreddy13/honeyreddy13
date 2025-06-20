@@ -30,7 +30,6 @@ Personality: Creative • Curious • Consistent
 <p align="center">
   <a href="https://www.linkedin.com/in/honey1305/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.leetcode.com/honey_reddy"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://www.codechef.com/users/honey_1305"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
   <a href="https://www.hackerrank.com/honeyreddymudir1"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank" /></a>
   <a href="https://auth.geeksforgeeks.org/user/honeyreddy0fzn"><img src="https://img.shields.io/badge/GeeksForGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
 </p>
