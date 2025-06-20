@@ -11,7 +11,6 @@
 ### 💁‍♀️ About Me
 ```yaml
 Name: Honey Reddy
-Role: SDE Intern @ Infineon (DES Department)
 Focus: Android | Data Science | DSA | ML/AI
 Personality: Creative • Curious • Consistent
 ```
