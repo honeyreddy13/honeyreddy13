@@ -56,12 +56,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=honeyreddy13&show_icons=true&theme=algolia" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=honeyreddy13&theme=algolia" width="47%" />
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hi+there%2C+I'm+Honey+Reddy.;SDE+%7C+ML+%7C+Android+%7C+DSA+enthusiast.;Let's+build+something+amazing+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyreddy13&layout=compact&theme=algolia" width="60%" />
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata&style=classic&fontSize=20" />
+</p>
+
 
 ### 🌐 Let's Connect
 
@@ -73,6 +80,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
 
 ### ✨ Fun Quote
 
@@ -85,6 +96,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=honeyreddy13&color=green" />
+</p>
+
 
 <p align="center">
   ❤️ *Thanks for stopping by!*  
